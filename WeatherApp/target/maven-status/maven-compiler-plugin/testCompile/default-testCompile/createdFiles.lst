@@ -1,0 +1,7 @@
+com\mitkov\weatherapp\WeatherApp\services\MeasurementServiceTest.class
+com\mitkov\weatherapp\WeatherApp\WeatherAppApplicationTests.class
+com\mitkov\weatherapp\WeatherApp\converters\SensorConverterTest.class
+com\mitkov\weatherapp\WeatherApp\converters\MeasurementConverterTest.class
+com\mitkov\weatherapp\WeatherApp\services\SensorServiceTest.class
+com\mitkov\weatherapp\WeatherApp\controllers\MeasurementControllerTest.class
+com\mitkov\weatherapp\WeatherApp\controllers\SensorControllerTest.class
